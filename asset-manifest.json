@@ -1,11 +1,17 @@
 {
-  "main.css": "static/css/main.7251f8bc.css",
-  "main.css.map": "static/css/main.7251f8bc.css.map",
-  "main.js": "static/js/main.7ab5eadd.js",
-  "main.js.map": "static/js/main.7ab5eadd.js.map",
+  "main.css": "static/css/main.28faa2fe.css",
+  "main.css.map": "static/css/main.28faa2fe.css.map",
+  "main.js": "static/js/main.8a313809.js",
+  "main.js.map": "static/js/main.8a313809.js.map",
+  "static\\media\\bg.jpg": "static/media/bg.a8bfb2ba.jpg",
+  "static\\media\\course.png": "static/media/course.a12d86b0.png",
   "static\\media\\fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
   "static\\media\\fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
   "static\\media\\fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
   "static\\media\\fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static\\media\\fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
+  "static\\media\\fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
+  "static\\media\\lecturer.png": "static/media/lecturer.910f5b23.png",
+  "static\\media\\school-logo.png": "static/media/school-logo.55a106f4.png",
+  "static\\media\\school-pic.png": "static/media/school-pic.f98530a3.png",
+  "static\\media\\student.png": "static/media/student.8fe2f303.png"
 }
